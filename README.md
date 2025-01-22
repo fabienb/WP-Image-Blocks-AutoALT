@@ -17,7 +17,7 @@ This WordPress PHP snippet automatically adds ALT tags to images in specified Gu
 ## Installation
 
 ### Option 1: Add to `functions.php`
-1. Open your active theme's `functions.php` file.
+1. Open your active theme's `functions.php` file (I recommend using a child theme or you will lose the functionality on the next theme update).
 2. Copy and paste the provided code snippet into the file.
 3. Save the changes.
 
