@@ -63,8 +63,8 @@ switch ($block_name) {
 - If an image already has an ALT tag, this snippet will not modify it.
 
 ## Credits
-- **Bill Erickson**: Original inspiration for the core functionality (on [Code Snippets](https://snippetclub.com/automatic-alt-tags-on-images-in-wordpress/)).
-- **Qwen 2.5 Coder 32B**: Improved and extended the original snippet to support additional blocks.
+- **Bill Erickson**: Original inspiration for the core functionality (on [Code Snippets](https://snippetclub.com/automatic-alt-tags-on-images-in-wordpress/))
+- **Qwen 2.5 Coder 32B**: Final steps to improve the original snippet: code health -> 8.85
 
 ---
 
