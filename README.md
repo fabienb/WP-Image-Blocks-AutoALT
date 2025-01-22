@@ -23,7 +23,7 @@ This WordPress PHP snippet automatically adds ALT tags to images in specified Gu
 3. Save the changes.
 
 ### Option 2: Use a Code Snippet Plugin
-1. Install and activate a code snippet plugin (I personally use FluentSinppets).
+1. Install and activate a code snippet plugin (I personally use FluentSnippets because it keeps snippets out of the WP database).
 2. Create a new snippet.
 3. Copy and paste the provided code snippet into the snippet editor.
 4. Set the scope to "Site-wide/Everywhere" and save the changes.
