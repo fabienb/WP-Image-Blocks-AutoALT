@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 /**
- * Snippet Name: Blocks AutoALT
+ * Snippet Name: Image Blocks AutoALT
  * Snippet URI: https://fabienb.blog
  * Description: This plugin automatically adds ALT tags to images in specified Gutenberg blocks.
  * Version: 1.2
