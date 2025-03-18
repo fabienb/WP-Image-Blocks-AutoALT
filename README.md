@@ -1,7 +1,14 @@
 # Automatic ALT Tags on Images (WordPress)
 
+![Latest Version](https://img.shields.io/badge/release-v1.1-orange)
+[![WordPress Version](https://img.shields.io/badge/wordpress-%3E%3D6.5-00749c)](https://wordpress.org/)
+[![PHP Version](https://img.shields.io/badge/php-%3E%3D7.0-8892BF.svg)](https://php.net/)
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
+
 ## Overview
 This WordPress PHP snippet automatically adds ALT tags to images in specified Gutenberg blocks before they are rendered on the frontend. It supports multiple image blocks, including those from GenerateBlocks, EditorsKit, and QI Blocks, as well as the core Gutenberg Image block.
+
+**I am happy to release this plugin for FREE. But if this is helpful to you in any way, please consider donating via [Paypal](https://paypal.me/fabienbutazzi) or use the Sponsor links in the sidebar to support this work and future enhancements.**
 
 ## Features
 - Automatically adds ALT tags for images in supported Gutenberg blocks.
@@ -23,10 +30,10 @@ This WordPress PHP snippet automatically adds ALT tags to images in specified Gu
 3. Save the changes.
 
 ### Option 2: Use a Code Snippet Plugin
-1. Install and activate a code snippet plugin (I personally use FluentSnippets because it keeps snippets out of the WP database).
+1. Install and activate a code snippet plugin (I personally use **FluentSnippets** because it keeps snippets out of the WP database).
 2. Create a new snippet.
 3. Copy and paste the provided code snippet into the snippet editor.
-4. Set the scope to "Site-wide/Everywhere" and save the changes.
+4. Set the scope to `"Site-wide/Everywhere"` and save the changes.
 
 ## Usage
 
