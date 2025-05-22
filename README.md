@@ -20,7 +20,7 @@ This WordPress PHP snippet automatically adds ALT tags to images in specified Gu
   - QI Blocks Media Image (`qi-blocks/media-image`)
   - QI Blocks Image Slider (`qi-blocks/image-slider`)
   - QI Blocks Image Gallery (`qi-blocks/image-gallery`)
-- Can be easily extended to support other blocks
+- Can be easily extended to support other blocks, including custom ones
 
 ## Installation
 
@@ -73,6 +73,7 @@ switch ($block_name) {
 ## Credits
 - **Bill Erickson**: Original inspiration for the core functionality (on [Code Snippets](https://snippetclub.com/automatic-alt-tags-on-images-in-wordpress/))
 - **Qwen 2.5 Coder 32B**: Final steps to improve the original snippet: code health -> 8.85
+- **Devstral**: Reduced code complexity and improved performance: code health -> 9.38
 
 ---
 
