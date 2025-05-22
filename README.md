@@ -1,6 +1,6 @@
 # Automatic ALT Tags on Images (WordPress)
 
-![Latest Version](https://img.shields.io/badge/release-v1.2-orange)
+![Latest Version](https://img.shields.io/badge/release-v1.4-orange)
 [![WordPress Version](https://img.shields.io/badge/wordpress-%3E%3D6.5-00749c)](https://wordpress.org/)
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D7.0-8892BF.svg)](https://php.net/)
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
